@@ -1,0 +1,36 @@
+{
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.enableImages": true,
+  "terminal.integrated.fontSize": 16,
+  "workbench.sideBar.location": "right",
+  "workbench.editor.showTabs": true,
+  "workbench.iconTheme": "vscode-icons",
+  "editor.minimap.enabled": false,
+  "editor.scrollbar.vertical": "hidden",
+  "editor.overviewRulerBorder": false,
+  "editor.formatOnSave": true,
+  // "editor.guides.indentation": false,
+  "indenticator.width": 0.2,
+  "indenticator.color.dark": "rgba(255,255,255,0.1)",
+  "breadcrumbs.enabled": false,
+  "editor.glyphMargin": false,
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "workbench.startupEditor": "none",
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "editor.fontSize": 15,
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "explorer.confirmDelete": false
+}
