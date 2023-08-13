@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Fernando and I'm a software engineering student from Mexico mem</p>
+<p align="left">My name is Fernando and I'm a software engineering student from Mexico </p>
 
 ###
 
