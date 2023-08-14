@@ -59,7 +59,7 @@
 ###
 ###
 
-<p align="center">"Codes are a puzzle. A game, just like any other game." - Alan Turing</p>
+<p align="center"> <strong> "Codes are a puzzle. A game, just like any other game." - Alan Turing </strong> </p>
 
 ###
 
