@@ -1,4 +1,4 @@
-<h1 align="left">Hello World!! 😃 What's up?</h1>
+<h1 align="left">Hello World!! 😃 </h1>
 
 ###
 
@@ -21,8 +21,6 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="46" alt="typescript logo"  />
   <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="46" alt="react logo"  />
-  <img width="11" />
   <img src="https://cdn.simpleicons.org/angular/DD0031" height="46" alt="angularjs logo"  />
   <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="46" alt="nestjs logo"  />
@@ -30,8 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="46" alt="nodejs logo"  />
   <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="46" alt="java logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="46" alt="spring logo"  />
   <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="46" alt="python logo"  />
   <img width="11" />
@@ -41,20 +37,26 @@
   <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  /> 
   <img width="11" />
+  <img src="https://cdn.simpleicons.org/graphql" height="40" alt="graphql logo"  /> 
+  <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="46" alt="linux logo"  />
   <img width="11" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img width="11" />
+  <img src="https://cdn.simpleicons.org/kubernetes/2496ED" height="40" alt="kubernetes logo"  />
 </div>
 
 ###
 
-<h2 align="left">🔥 My GitHub Stats </h2>
+<h2 align="left">🔥 My Stats </h2>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=N4ndomx&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=n4ndomx&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=github_dark&hide_border=true&order=2" height="165" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=n4ndomx&locale=en&mode=weekly&theme=github_dark&hide_border=true&order=3" height="165" alt="streak graph"  />
 </div>
+
 
 ###
 ###
