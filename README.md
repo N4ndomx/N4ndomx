@@ -23,7 +23,7 @@
   <img width="11" />
   <img src="https://cdn.simpleicons.org/angular/DD0031" height="46" alt="angularjs logo"  />
   <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="46" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="46" alt="nestjs logo"  />
   <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="46" alt="nodejs logo"  />
   <img width="11" />
