@@ -26,21 +26,29 @@
   <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="46" alt="nestjs logo"  />
   <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="46" alt="nodejs logo"  />
+  <img src="https://expresso-ts.com/assets/logos/logo-primary.svg" height="48" alt="expresso-ts"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="58" alt="npm logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" alt="java logo"  />
   <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="46" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="46" alt="spring"  />
   <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="46" alt="python logo"  />
   <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="46" alt="flutter logo"  />
   <img width="11" />
-  <img src="https://cdn.simpleicons.org/graphql" height="40" alt="graphql logo"  /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="46" alt="postgresql logo"  /> 
   <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="46" alt="my logo"  /> 
+  <img width="11" />
+<!--   <img src="https://cdn.simpleicons.org/graphql" height="46" alt="graphql logo"  />  -->
+<!--   <img width="11" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="46" alt="linux logo"  />
   <img width="11" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="46" alt="docker logo"  />
   <img width="11" />
-  <img src="https://cdn.simpleicons.org/kubernetes/2496ED" height="40" alt="kubernetes logo"  />
+  <img src="https://cdn.simpleicons.org/kubernetes/2496ED" height="46" alt="kubernetes logo"  />
 </div>
 
 ###
@@ -58,7 +66,7 @@
 ###
 ###
 
-<p align="center"> <strong> "Codes are a puzzle. A game, just like any other game." - Alan Turing </strong> </p>
+<p align="center"> <strong> "Sometimes it is the people no one can imagine anything of who do the things no one can imagine" - Alan Turing </strong> </p>
 
 ###
 
@@ -66,9 +74,7 @@
   <a href="https://www.linkedin.com/in/floresramirezcristianf/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/n4ndomx" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="twitter logo"  />
-  </a>
+  
   <a href="n4ndorz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=n4ndorz&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="discord logo"  />
   </a>
