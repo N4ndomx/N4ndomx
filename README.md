@@ -24,10 +24,10 @@
   <img width="11" />
   <img src="https://cdn.simpleicons.org/angular/DD0031" height="46" alt="angularjs logo"  />
   <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="46" alt="react"  />
+  <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="46" alt="nestjs logo"  />
   <img width="11" />
-  <img src="https://expresso-ts.com/assets/logos/logo-primary.svg" height="48" alt="expresso-ts"  />
-  <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="58" alt="npm logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" alt="java logo"  />
@@ -70,14 +70,4 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/floresramirezcristianf/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linkedin logo"  />
-  </a>
-  
-  <a href="n4ndorz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=n4ndorz&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="discord logo"  />
-  </a>
-</div>
 
-###
