@@ -3,15 +3,18 @@
 
 ###
 
-<p align="left">My name is Fernando and I'm a software engineering student from Mexico </p>
+<h3 align="left">Fernando is here🤠 and 
+ He is a software engineer 😎 from Mexico </h3>
 
 ###
 
 <h2 align="left">About me</h2>
 
 ###
-
-<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning softwere architectures and backend development<br>🎯 I’m looking to collaborate on open source projects</p>
+- ✨ Creating bugs since 2018
+- 📚 I'm currently learning softwere architectures and backend development
+- 🎯 I’m looking to collaborate on open source projects
+- 🎓 Graduated as a Software Engineer from Universidad Veracruzana 
 
 ###
 
