@@ -3,8 +3,7 @@
 
 ###
 
-<h3 align="left">Fernando is here🤠 and 
- He is a software engineer 😎 from Mexico </h3>
+<h3 align="left">Nice to me you , I´m Fernando, a software engineer from Mexico 🤠 </h3>
 
 ###
 
