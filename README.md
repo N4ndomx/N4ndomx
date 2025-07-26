@@ -1,5 +1,5 @@
 
-![Header](./assets/github-header-image-n4.png)
+<!--  ![Header](./assets/github-header-image-n4.png) -->
 
 ###
 
@@ -17,11 +17,11 @@
 
 ###
 
-<h2 align="left">💻 Tech Stack:</h2>
+<h2 align="left">Tech Stack:</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="46" alt="typescript logo"  />
   <img width="11" />
   <img src="https://cdn.simpleicons.org/angular/DD0031" height="46" alt="angularjs logo"  />
@@ -51,11 +51,11 @@
 
 ###
 
-<h2 align="left">🔥 My Stats </h2>
+<h2 align="left">My Stats </h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=n4ndomx&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=github_dark&hide_border=true&order=2" height="165" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=n4ndomx&locale=en&mode=weekly&theme=github_dark&hide_border=true&order=3" height="165" alt="streak graph"  />
 </div>
